@@ -1,0 +1,11 @@
+
+  body {background-color:#f1f3f8; }
+  hr {border-style: none;
+    border-top-style: dotted;
+    border-color: #726a95;
+    border-width: 8px;
+    width: 20%; }
+  h2 {color: #726a95;}
+  h1{color: #726a95}
+  img:hover { transform: scale(2.5)}
+  #profile_pic:hover {transform: scale(1.5)}
